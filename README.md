@@ -1,3 +1,3 @@
 # buscarCepReact
 
-[acesse](https://wellingtonoficial.github.io/consumindoApiViaCep/)
+[acesse](https://wellingtonoficial.github.io/buscarCepReact/)
